@@ -16,7 +16,7 @@ class cCompetir(threading.Thread):
         self.__cOptimo = list()
         self.__aEstado = destruido
         pass
-    
+    #esto no entiendo
     def destruido(self):
         return self.__aEstado.value == 1
     
