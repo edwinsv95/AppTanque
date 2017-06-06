@@ -4,6 +4,7 @@ import aTanque
 import aEscenario
 
 #esto es mi codigo
+# gabino mamey
 class cCompetir(threading.Thread):
     
     def __init__(self, pEscenario, pTanque, pObjetivo, destruido):
